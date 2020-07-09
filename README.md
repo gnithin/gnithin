@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi!
 
 <!--
 **gnithin/gnithin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Nithin 👋
+- :heart: React and Python
+- :pick: Worked on projects in Objective-C, Golang, PHP
+- 🤔 Currently struggling to learn with C++
+- 📫 Email me @ nithin.linkin@gmail.com
