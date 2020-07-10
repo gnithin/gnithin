@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 I am Nithin 👋
 - :heart: React and Python
+- 🤔 Currently struggling to learn C++
 - :pick: Worked on projects in Objective-C, Golang, PHP
-- 🤔 Currently struggling to learn with C++
 - 📫 Email me @ nithin.linkin@gmail.com
