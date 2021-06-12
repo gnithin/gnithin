@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am Nithin 👋
-- :books: Pursuing my Masters in Computer Science @Northeastern
-- :office: Currently an intern @Klaviyo, ex-SDE @Media.net
+- :office: Software dev @Klaviyo, ex-SDE @Media.net
 - :heart: React and Python
 - :pick: Worked on projects in Golang, Objective-C, PHP, long long ago
 - 📫 Email me @ nithin.linkin@gmail.com
